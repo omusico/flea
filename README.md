@@ -1,6 +1,6 @@
 # 校園物品交易之風格化平台設計與服務—政！大福利市集
 
-![ScreenShot](https://raw.github.com/fukuball/similar-artist-radio/master/images/similar-artist-radio-screen.png)
+![ScreenShot](https://raw.github.com/fukuball/flea/master/images/flea-screenshot.png)
 
 ## 摘要
 
